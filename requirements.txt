@@ -1,4 +1,5 @@
 gtts
 flask
 flask-cors
+from_root
 -e .
